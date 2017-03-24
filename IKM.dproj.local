@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/03/08 12:19:24.000.860,=C:\Users\Joko Pitoyo\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/03/08 12:19:34.000.889,C:\Users\Joko Pitoyo\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Joko Pitoyo\Documents\Embarcadero\Studio\Projects\IPTVS.dproj</Transaction>
+    <Transaction>2017/03/08 12:20:22.000.032,=D:\Dev\SDK\flashconverter\Licensed\VLCPlayerAndroid\Bin\Android\vlc.jar</Transaction>
+    <Transaction>2017/03/08 12:20:50.000.186,C:\Users\Joko Pitoyo\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Projects\Delphi\IPTV\Umain.pas</Transaction>
+    <Transaction>2017/03/08 12:20:50.000.186,C:\Users\Joko Pitoyo\Documents\Embarcadero\Studio\Projects\Unit3.fmx=D:\Projects\Delphi\IPTV\Umain.fmx</Transaction>
+    <Transaction>2017/03/08 12:20:57.000.832,C:\Users\Joko Pitoyo\Documents\Embarcadero\Studio\Projects\IPTVS.dproj=D:\Projects\Delphi\IPTV\IPTVS.dproj</Transaction>
+    <Transaction>2017/03/08 12:33:50.000.682,=D:\Projects\Delphi\IPTV\Unit1.pas</Transaction>
+    <Transaction>2017/03/08 12:33:58.000.332,D:\Projects\Delphi\IPTV\Unit1.pas=D:\Projects\Delphi\IPTV\UDM.pas</Transaction>
+    <Transaction>2017/03/08 12:33:58.000.332,D:\Projects\Delphi\IPTV\Unit1.dfm=D:\Projects\Delphi\IPTV\UDM.dfm</Transaction>
+    <Transaction>2017/03/11 05:40:30.000.009,D:\Projects\Delphi\IKM\IPTVS.dproj=D:\Projects\Delphi\IKM\IKM.dproj</Transaction>
+    <Transaction>2017/03/11 05:49:10.000.509,=D:\Projects\Delphi\IKM\Unit1.pas</Transaction>
+    <Transaction>2017/03/11 05:50:24.000.859,D:\Projects\Delphi\IKM\Unit1.pas=D:\Projects\Delphi\IKM\UPolling.pas</Transaction>
+    <Transaction>2017/03/11 05:50:24.000.859,D:\Projects\Delphi\IKM\Unit1.fmx=D:\Projects\Delphi\IKM\UPolling.fmx</Transaction>
+    <Transaction>2017/03/11 07:41:40.000.590,=D:\Projects\Delphi\IKM\Unit1.pas</Transaction>
+    <Transaction>2017/03/11 07:42:14.000.580,D:\Projects\Delphi\IKM\Unit1.fmx=D:\Projects\Delphi\IKM\USetting.fmx</Transaction>
+    <Transaction>2017/03/11 07:42:14.000.580,D:\Projects\Delphi\IKM\Unit1.pas=D:\Projects\Delphi\IKM\USetting.pas</Transaction>
+    <Transaction>2017/03/15 06:15:47.000.409,=D:\Projects\Delphi\IKM\Unit1.pas</Transaction>
+    <Transaction>2017/03/15 06:15:58.000.302,D:\Projects\Delphi\IKM\Unit1.pas=D:\Projects\Delphi\IKM\UThanks.pas</Transaction>
+    <Transaction>2017/03/15 06:15:58.000.302,D:\Projects\Delphi\IKM\Unit1.fmx=D:\Projects\Delphi\IKM\UThanks.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="0123456789ABCDEF"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>
